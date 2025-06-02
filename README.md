@@ -51,6 +51,8 @@ To derive actionable insights about:
 ## 📈 Visualizations
 
 - ER diagram
+  
+![ER Diagram](GDP-Analysis-using-SQL/main/ER Diagram.png)
 
 ---
 
