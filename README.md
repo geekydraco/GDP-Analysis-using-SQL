@@ -52,7 +52,6 @@ To derive actionable insights about:
 
 - ER diagram
 
-main/ER Diagram.png
 ---
 
 ## 💼 About This Project
