@@ -51,6 +51,8 @@ To derive actionable insights about:
 ## 📈 Visualizations
 
 - ER diagram
+
+  ![Screenshot] (main/ER Diagram.png)
 ---
 
 ## 💼 About This Project
