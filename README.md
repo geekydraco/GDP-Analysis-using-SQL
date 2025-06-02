@@ -52,7 +52,7 @@ To derive actionable insights about:
 
 - ER diagram
 
-  ![Screenshot] (main/ER Diagram.png)
+main/ER Diagram.png
 ---
 
 ## 💼 About This Project
