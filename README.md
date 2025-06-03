@@ -1,9 +1,9 @@
-# 🌍 Global Energy, Emission & GDP Analysis using SQL
+# 🌍 **Global Energy, Emission & GDP Analysis using SQL**
 
 This project is a comprehensive SQL-based data analysis on global datasets including GDP, Population, Emission, Energy Consumption & Production.
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To derive actionable insights about:
 - Global emissions
@@ -13,7 +13,7 @@ To derive actionable insights about:
 
 ---
 
-## 📊 Datasets Used (6 Tables)
+## Datasets Used (6 Tables)
 1. **country_3.csv** – Country codes and names
 2. **population_3.csv** – Population data by year and country
 3. **gdp_3.csv** – GDP data by year and country
@@ -23,7 +23,7 @@ To derive actionable insights about:
 
 ---
 
-## 🔍 Features Implemented
+## Features Implemented
 
 - **SQL Views, CTEs, and Joins**
 - **Stored Procedures for reusable queries**
@@ -40,7 +40,7 @@ To derive actionable insights about:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `SQL Queries.sql` – All executed SQL queries
 - CSV files – Raw datasets used
@@ -48,26 +48,9 @@ To derive actionable insights about:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - ER diagram
   
 ![Visualization](/ER_Diagram.png)
-
----
-
-## 💼 About This Project
-
-This project was created as part of a college-level SQL data analytics challenge where multiple teams worked on the same dataset. Our version stood out by:
-- Adding advanced analytics (views, procedures)
-- Strong presentation structure
-- Clean, optimized SQL
-- Deep insight through KPIs
-
----
-
-## 🚀 Skills Used
-
-- SQL (Joins, Aggregation, Window Functions, CTEs, Views, Procedures)
-- Data Cleaning & Preparation
-- Analytical Thinking
+![Connect with me](https://www.linkedin.com/in/anjankarthikchandra/)
