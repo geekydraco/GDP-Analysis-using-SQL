@@ -48,9 +48,13 @@ To derive actionable insights about:
 
 ---
 
+
 ## Visualizations
 
-- ER diagram
-  
-![Visualization](/ER_Diagram.png)
-![Connect with me](https://www.linkedin.com/in/anjankarthikchandra/)
+### ER Diagram
+
+![ER Diagram](/ER_Diagram.png)
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/anjankarthikchandra/)
+
+
