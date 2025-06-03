@@ -52,7 +52,7 @@ To derive actionable insights about:
 
 - ER diagram
   
-GDP-Analysis-using-SQL/main/ER Diagram.png
+![Visualization](/ER_Diagram.png)
 
 ---
 
